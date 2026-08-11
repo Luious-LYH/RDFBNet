@@ -1,21 +1,20 @@
 # RDFBNet
 
-This repository is the official implementation placeholder for:
+Official repository for:
 
 **Pseudo-Depth-Assisted Polyp Segmentation via Discrepancy-Guided Fusion and Boundary-Guided Decoding**
 
-The paper is currently under review. Following common practice for anonymous or pre-acceptance submissions, the source code, trained models, inference scripts, and detailed reproduction instructions will be released after the paper is accepted.
+The paper is currently under review. Code and models will be released once the paper is accepted.
 
 ## Status
 
 - Code: to be released upon acceptance
 - Models: to be released upon acceptance
-- Reproduction instructions: to be released upon acceptance
 - Citation: to be updated after publication
 
 ## Overview
 
-RDFBNet studies pseudo-depth-assisted polyp segmentation. The method uses monocular pseudo-depth as an auxiliary structural cue and regulates RGB-depth fusion through discrepancy-guided feature interaction and boundary-guided decoding.
+RDFBNet explores pseudo-depth-assisted polyp segmentation with discrepancy-guided RGB-depth fusion and boundary-guided decoding.
 
 ## Citation
 
@@ -32,4 +31,4 @@ If you find this project useful, please cite our paper after the official biblio
 
 ## Contact
 
-For questions about the project, please contact the authors after the paper is accepted and the repository is fully released.
+For questions, please contact the authors.
