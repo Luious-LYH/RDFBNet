@@ -12,10 +12,6 @@ RDFBNet is a pseudo-depth-assisted segmentation model built around discrepancy-g
   <img src="assets/architecture.webp" alt="Overall architecture of RDFBNet" width="100%">
 </p>
 
-## Model Code
-
-The RDFBNet model definition is available in [`models/RDFBNet.py`](models/RDFBNet.py), together with its PVTv2 encoder dependency.
-
 ## Polyp Segmentation
 
 ### Quantitative Results
